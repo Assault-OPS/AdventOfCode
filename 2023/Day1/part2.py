@@ -1,5 +1,7 @@
 
 
+# I know this is a very bad code but it works
+
 with open('day2input.txt','r') as f:
     inputs = f.readlines()
 lines = [rawcommand.strip('\n') for rawcommand in inputs]
